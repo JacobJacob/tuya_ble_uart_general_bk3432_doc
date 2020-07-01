@@ -1,3 +1,3 @@
-TUYA_BCI_BK3432_ALL_x.x——生产固件，需要BK原厂工具烧录
-
+TUYA_BCI_BK3432_USE_32768Khz_ALL_x.x——使用32.768khz晶振固件，生产固件，需要BK原厂工具烧录
+TUYA_BCI_BK3432_USE_32Khz_ALL__x.x——使用32khz晶振固件，生产固件，需要BK原厂工具烧录
 授权码：授权码请找产品或FAE申请
